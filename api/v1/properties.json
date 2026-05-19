@@ -1,0 +1,952 @@
+[
+  {
+    "id": "PROP-001",
+    "title": "Departamento con Pileto en Pinamar",
+    "price": 110075,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/1/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.114967,
+      "longitude": -56.866525
+    },
+    "attributes": {
+      "rooms": 2,
+      "bathrooms": 2,
+      "surface": 79
+    }
+  },
+  {
+    "id": "PROP-002",
+    "title": "Chalet con Pileto en Valeria del Mar",
+    "price": 95139,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/2/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Valeria del Mar",
+      "latitude": -34.145649,
+      "longitude": -56.88054
+    },
+    "attributes": {
+      "rooms": 4,
+      "bathrooms": 3,
+      "surface": 344
+    }
+  },
+  {
+    "id": "PROP-003",
+    "title": "Departamento frente al Mar en Pinamar Norte",
+    "price": 284190,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/3/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.098766,
+      "longitude": -56.859687
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 1,
+      "surface": 239
+    }
+  },
+  {
+    "id": "PROP-004",
+    "title": "Casa Moderna/a en Pinamar",
+    "price": 96177,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/4/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.11223,
+      "longitude": -56.867759
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 1,
+      "surface": 169
+    }
+  },
+  {
+    "id": "PROP-005",
+    "title": "Casa con Pileta en Cariló",
+    "price": 287388,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/5/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.161784,
+      "longitude": -56.892338
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 2,
+      "surface": 293
+    }
+  },
+  {
+    "id": "PROP-006",
+    "title": "Dúplex en el Bosque en Ostende",
+    "price": 86695,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/6/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Ostende",
+      "latitude": -34.129042,
+      "longitude": -56.879821
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 2,
+      "surface": 314
+    }
+  },
+  {
+    "id": "PROP-007",
+    "title": "Dúplex frente al Mar en Pinamar",
+    "price": 92859,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/7/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.109383,
+      "longitude": -56.862882
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 4,
+      "surface": 227
+    }
+  },
+  {
+    "id": "PROP-008",
+    "title": "Chalet con Pileto en Pinamar",
+    "price": 129065,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/8/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.115407,
+      "longitude": -56.863837
+    },
+    "attributes": {
+      "rooms": 2,
+      "bathrooms": 1,
+      "surface": 244
+    }
+  },
+  {
+    "id": "PROP-009",
+    "title": "Chalet frente al Mar en Pinamar",
+    "price": 110232,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/9/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.112006,
+      "longitude": -56.867518
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 3,
+      "surface": 42
+    }
+  },
+  {
+    "id": "PROP-010",
+    "title": "Departamento Moderna/o en Valeria del Mar",
+    "price": 82014,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/10/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Valeria del Mar",
+      "latitude": -34.147733,
+      "longitude": -56.881198
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 3,
+      "surface": 159
+    }
+  },
+  {
+    "id": "PROP-011",
+    "title": "Dúplex frente al Mar en Pinamar",
+    "price": 81474,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/11/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.115861,
+      "longitude": -56.864961
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 278
+    }
+  },
+  {
+    "id": "PROP-012",
+    "title": "Departamento en el Bosque en Barrio Privado La Herradura",
+    "price": 721120,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/12/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Barrio Privado La Herradura",
+      "latitude": -34.109722,
+      "longitude": -56.892188
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 3,
+      "surface": 275
+    }
+  },
+  {
+    "id": "PROP-013",
+    "title": "Departamento con Pileto en Cariló",
+    "price": 371400,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/13/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.161904,
+      "longitude": -56.895988
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 4,
+      "surface": 113
+    }
+  },
+  {
+    "id": "PROP-014",
+    "title": "Casa en el Bosque en Pinamar Norte",
+    "price": 246495,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/14/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.094786,
+      "longitude": -56.857245
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 1,
+      "surface": 221
+    }
+  },
+  {
+    "id": "PROP-015",
+    "title": "Dúplex Moderna/o en Valeria del Mar",
+    "price": 78758,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/15/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Valeria del Mar",
+      "latitude": -34.141944,
+      "longitude": -56.880727
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 4,
+      "surface": 222
+    }
+  },
+  {
+    "id": "PROP-016",
+    "title": "Dúplex frente al Mar en Pinamar Norte",
+    "price": 267780,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/16/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.103645,
+      "longitude": -56.858259
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 256
+    }
+  },
+  {
+    "id": "PROP-017",
+    "title": "Departamento con Pileto en Pinamar Norte",
+    "price": 209870,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/17/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.09801,
+      "longitude": -56.864315
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 2,
+      "surface": 70
+    }
+  },
+  {
+    "id": "PROP-018",
+    "title": "Chalet con Pileto en Pinamar",
+    "price": 92375,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/18/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.118213,
+      "longitude": -56.860411
+    },
+    "attributes": {
+      "rooms": 4,
+      "bathrooms": 2,
+      "surface": 130
+    }
+  },
+  {
+    "id": "PROP-019",
+    "title": "Casa con Pileta en Pinamar",
+    "price": 89794,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/19/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.114718,
+      "longitude": -56.867504
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 5,
+      "surface": 268
+    }
+  },
+  {
+    "id": "PROP-020",
+    "title": "Casa Luminosa/a en Pinamar",
+    "price": 107771,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/20/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.117381,
+      "longitude": -56.864293
+    },
+    "attributes": {
+      "rooms": 4,
+      "bathrooms": 2,
+      "surface": 44
+    }
+  },
+  {
+    "id": "PROP-021",
+    "title": "Departamento frente al Mar en Pinamar Norte",
+    "price": 227528,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/21/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.09543,
+      "longitude": -56.866164
+    },
+    "attributes": {
+      "rooms": 4,
+      "bathrooms": 4,
+      "surface": 152
+    }
+  },
+  {
+    "id": "PROP-022",
+    "title": "Casa Moderna/a en Pinamar Norte",
+    "price": 262964,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/22/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.101043,
+      "longitude": -56.856963
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 4,
+      "surface": 233
+    }
+  },
+  {
+    "id": "PROP-023",
+    "title": "Departamento Luminosa/o en Ostende",
+    "price": 85535,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/23/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Ostende",
+      "latitude": -34.132875,
+      "longitude": -56.877481
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 282
+    }
+  },
+  {
+    "id": "PROP-024",
+    "title": "Chalet Luminosa/o en Valeria del Mar",
+    "price": 91506,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/24/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Valeria del Mar",
+      "latitude": -34.139517,
+      "longitude": -56.884847
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 212
+    }
+  },
+  {
+    "id": "PROP-025",
+    "title": "Dúplex frente al Mar en Pinamar",
+    "price": 114734,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/25/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.115399,
+      "longitude": -56.861734
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 5,
+      "surface": 77
+    }
+  },
+  {
+    "id": "PROP-026",
+    "title": "Casa frente al Mar en Pinamar Norte",
+    "price": 225605,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/26/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.097244,
+      "longitude": -56.858445
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 4,
+      "surface": 269
+    }
+  },
+  {
+    "id": "PROP-027",
+    "title": "Departamento de Categorío en Cariló",
+    "price": 478751,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/27/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.164756,
+      "longitude": -56.891268
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 5,
+      "surface": 339
+    }
+  },
+  {
+    "id": "PROP-028",
+    "title": "Chalet Moderna/o en Valeria del Mar",
+    "price": 72426,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/28/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Valeria del Mar",
+      "latitude": -34.140419,
+      "longitude": -56.878321
+    },
+    "attributes": {
+      "rooms": 2,
+      "bathrooms": 2,
+      "surface": 338
+    }
+  },
+  {
+    "id": "PROP-029",
+    "title": "Departamento de Categorío en Cariló",
+    "price": 283674,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/29/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.166694,
+      "longitude": -56.887899
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 94
+    }
+  },
+  {
+    "id": "PROP-030",
+    "title": "Casa frente al Mar en Barrio Privado La Herradura",
+    "price": 679975,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/30/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Barrio Privado La Herradura",
+      "latitude": -34.108137,
+      "longitude": -56.887182
+    },
+    "attributes": {
+      "rooms": 4,
+      "bathrooms": 4,
+      "surface": 153
+    }
+  },
+  {
+    "id": "PROP-031",
+    "title": "Dúplex en el Bosque en Cariló",
+    "price": 260518,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/31/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.169193,
+      "longitude": -56.894157
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 1,
+      "surface": 53
+    }
+  },
+  {
+    "id": "PROP-032",
+    "title": "Dúplex con Pileto en Cariló",
+    "price": 431428,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/32/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.162177,
+      "longitude": -56.889123
+    },
+    "attributes": {
+      "rooms": 4,
+      "bathrooms": 2,
+      "surface": 233
+    }
+  },
+  {
+    "id": "PROP-033",
+    "title": "Casa frente al Mar en Pinamar Norte",
+    "price": 240430,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/33/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.098349,
+      "longitude": -56.858154
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 5,
+      "surface": 160
+    }
+  },
+  {
+    "id": "PROP-034",
+    "title": "Dúplex con Pileto en Pinamar",
+    "price": 107004,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/34/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.115429,
+      "longitude": -56.868045
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 67
+    }
+  },
+  {
+    "id": "PROP-035",
+    "title": "Departamento en el Bosque en Pinamar Norte",
+    "price": 253756,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/35/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.097614,
+      "longitude": -56.858079
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 5,
+      "surface": 209
+    }
+  },
+  {
+    "id": "PROP-036",
+    "title": "Departamento Moderna/o en Ostende",
+    "price": 63493,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/36/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Ostende",
+      "latitude": -34.130899,
+      "longitude": -56.873435
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 5,
+      "surface": 210
+    }
+  },
+  {
+    "id": "PROP-037",
+    "title": "Dúplex en el Bosque en Pinamar Norte",
+    "price": 266693,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/37/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.099312,
+      "longitude": -56.859763
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 95
+    }
+  },
+  {
+    "id": "PROP-038",
+    "title": "Departamento en el Bosque en Valeria del Mar",
+    "price": 92778,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/38/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Valeria del Mar",
+      "latitude": -34.148055,
+      "longitude": -56.877677
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 3,
+      "surface": 50
+    }
+  },
+  {
+    "id": "PROP-039",
+    "title": "Casa Moderna/a en Barrio Privado La Herradura",
+    "price": 384064,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/39/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Barrio Privado La Herradura",
+      "latitude": -34.106214,
+      "longitude": -56.887412
+    },
+    "attributes": {
+      "rooms": 3,
+      "bathrooms": 3,
+      "surface": 314
+    }
+  },
+  {
+    "id": "PROP-040",
+    "title": "Dúplex frente al Mar en Pinamar Norte",
+    "price": 168283,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/40/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.100036,
+      "longitude": -56.858191
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 6,
+      "surface": 313
+    }
+  },
+  {
+    "id": "PROP-041",
+    "title": "Chalet en el Bosque en Pinamar",
+    "price": 110798,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/41/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.10945,
+      "longitude": -56.860314
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 274
+    }
+  },
+  {
+    "id": "PROP-042",
+    "title": "Dúplex Luminosa/o en Pinamar Norte",
+    "price": 153854,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/42/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.10191,
+      "longitude": -56.863323
+    },
+    "attributes": {
+      "rooms": 2,
+      "bathrooms": 1,
+      "surface": 56
+    }
+  },
+  {
+    "id": "PROP-043",
+    "title": "Casa en el Bosque en Barrio Privado La Herradura",
+    "price": 468161,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/43/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Barrio Privado La Herradura",
+      "latitude": -34.105636,
+      "longitude": -56.894751
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 5,
+      "surface": 278
+    }
+  },
+  {
+    "id": "PROP-044",
+    "title": "Casa frente al Mar en Cariló",
+    "price": 395709,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/44/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Cariló",
+      "latitude": -34.164243,
+      "longitude": -56.887735
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 3,
+      "surface": 166
+    }
+  },
+  {
+    "id": "PROP-045",
+    "title": "Casa en el Bosque en Ostende",
+    "price": 87880,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/45/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Ostende",
+      "latitude": -34.127002,
+      "longitude": -56.873375
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 293
+    }
+  },
+  {
+    "id": "PROP-046",
+    "title": "Dúplex frente al Mar en Pinamar",
+    "price": 112008,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/46/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.116932,
+      "longitude": -56.868587
+    },
+    "attributes": {
+      "rooms": 6,
+      "bathrooms": 6,
+      "surface": 307
+    }
+  },
+  {
+    "id": "PROP-047",
+    "title": "Dúplex Luminosa/o en Pinamar",
+    "price": 142374,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/47/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar",
+      "latitude": -34.116702,
+      "longitude": -56.868194
+    },
+    "attributes": {
+      "rooms": 2,
+      "bathrooms": 2,
+      "surface": 152
+    }
+  },
+  {
+    "id": "PROP-048",
+    "title": "Chalet de Categorío en Barrio Privado La Herradura",
+    "price": 506131,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/48/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Barrio Privado La Herradura",
+      "latitude": -34.106298,
+      "longitude": -56.886469
+    },
+    "attributes": {
+      "rooms": 5,
+      "bathrooms": 4,
+      "surface": 132
+    }
+  },
+  {
+    "id": "PROP-049",
+    "title": "Casa Luminosa/a en Pinamar Norte",
+    "price": 226187,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/49/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Pinamar Norte",
+      "latitude": -34.100523,
+      "longitude": -56.856853
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 281
+    }
+  },
+  {
+    "id": "PROP-050",
+    "title": "Dúplex en el Bosque en Barrio Privado La Herradura",
+    "price": 510286,
+    "currency": "USD",
+    "operationType": "Venta",
+    "thumbnail": "https://picsum.photos/seed/50/800/600",
+    "location": {
+      "city": "Partido de Pinamar",
+      "zone": "Barrio Privado La Herradura",
+      "latitude": -34.108339,
+      "longitude": -56.885695
+    },
+    "attributes": {
+      "rooms": 1,
+      "bathrooms": 1,
+      "surface": 42
+    }
+  }
+]
