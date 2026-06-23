@@ -1,22 +1,34 @@
 [
   {
     "id": "PROP-001",
-    "title": "Departamento con Pileto en Pinamar",
+    "title": "Departamento con Pileta en Pinamar",
     "price": 110075,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/1/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.114967, "longitude": -56.866525 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,exterior?lock=1",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,exterior?lock=1",
+      "https://loremflickr.com/800/600/livingroom,interior?lock=1",
+      "https://loremflickr.com/800/600/pool?lock=1"
+    ],
+    "description": "Excelente departamento de 2 ambientes ubicado en una zona privilegiada de Pinamar. Destaca por su gran luminosidad, balcón aterrazado y acceso a una piscina compartida ideal para la temporada de verano.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.114967, "longitude": -56.866525 },
     "attributes": { "rooms": 2, "bathrooms": 2, "surface": 79 }
   },
   {
     "id": "PROP-002",
-    "title": "Chalet con Pileto en Valeria del Mar",
+    "title": "Chalet con Pileta en Valeria del Mar",
     "price": 95139,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/2/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -34.145649, "longitude": -56.88054 },
+    "thumbnail": "https://loremflickr.com/800/600/house,exterior?lock=2",
+    "images": [
+      "https://loremflickr.com/800/600/house,exterior?lock=2",
+      "https://loremflickr.com/800/600/bedroom,interior?lock=2",
+      "https://loremflickr.com/800/600/backyard,pool?lock=2"
+    ],
+    "description": "Acogedor chalet familiar en Valeria del Mar. Cuenta con 4 amplios ambientes, jardín perimetral parquizado, sector de parrilla y piscina privada. Perfecto para descanso y reuniones familiares.",
+    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -37.145649, "longitude": -56.88054 },
     "attributes": { "rooms": 4, "bathrooms": 3, "surface": 344 }
   },
   {
@@ -25,18 +37,30 @@
     "price": 284190,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/3/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.098766, "longitude": -56.859687 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,beach?lock=3",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,beach?lock=3",
+      "https://loremflickr.com/800/600/kitchen,interior?lock=3",
+      "https://loremflickr.com/800/600/balcony,ocean?lock=3"
+    ],
+    "description": "Exclusivo departamento en primera línea de playa. Ofrece vistas panorámicas al mar desde el living y la habitación principal. Pisos de porcelanato, aberturas DVH y terminaciones de primera calidad.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.098766, "longitude": -56.859687 },
     "attributes": { "rooms": 3, "bathrooms": 1, "surface": 239 }
   },
   {
     "id": "PROP-004",
-    "title": "Casa Moderna/a en Pinamar",
+    "title": "Casa Moderna en Pinamar",
     "price": 96177,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/4/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.11223, "longitude": -56.867759 },
+    "thumbnail": "https://loremflickr.com/800/600/modern,house?lock=4",
+    "images": [
+      "https://loremflickr.com/800/600/modern,house?lock=4",
+      "https://loremflickr.com/800/600/bathroom,interior?lock=4",
+      "https://loremflickr.com/800/600/livingroom,modern?lock=4"
+    ],
+    "description": "Propiedad de diseño contemporáneo desarrollada en una planta. Amplio concepto abierto que integra cocina, comedor y living. Ubicación estratégica cerca del centro comercial y rodeada de bosque.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.11223, "longitude": -56.867759 },
     "attributes": { "rooms": 3, "bathrooms": 1, "surface": 169 }
   },
   {
@@ -45,8 +69,14 @@
     "price": 287388,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/5/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.161784, "longitude": -56.892338 },
+    "thumbnail": "https://loremflickr.com/800/600/mansion,forest?lock=5",
+    "images": [
+      "https://loremflickr.com/800/600/mansion,forest?lock=5",
+      "https://loremflickr.com/800/600/interior,luxury?lock=5",
+      "https://loremflickr.com/800/600/pool,night?lock=5"
+    ],
+    "description": "Inmueble de categoría emplazado en el corazón del bosque de Cariló. Maderas nobles, hogar a leña, amplios ventanales y una piscina climatizada que se integra armoniosamente con el paisaje natural.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.161784, "longitude": -56.892338 },
     "attributes": { "rooms": 3, "bathrooms": 2, "surface": 293 }
   },
   {
@@ -55,8 +85,14 @@
     "price": 86695,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/6/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -34.129042, "longitude": -56.879821 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,exterior?lock=6",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,exterior?lock=6",
+      "https://loremflickr.com/800/600/kitchen,bright?lock=6",
+      "https://loremflickr.com/800/600/bedroom,cozy?lock=6"
+    ],
+    "description": "Práctico y funcional dúplex de 3 ambientes ideal para escapadas. Entorno tranquilo y arbolado. Dispone de entrada para auto, parrilla propia y ambientes distribuidos en dos plantas para mayor privacidad.",
+    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -37.129042, "longitude": -56.879821 },
     "attributes": { "rooms": 3, "bathrooms": 2, "surface": 314 }
   },
   {
@@ -65,18 +101,30 @@
     "price": 92859,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/7/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.109383, "longitude": -56.862882 },
+    "thumbnail": "https://loremflickr.com/800/600/house,beach?lock=7",
+    "images": [
+      "https://loremflickr.com/800/600/house,beach?lock=7",
+      "https://loremflickr.com/800/600/balcony,view?lock=7",
+      "https://loremflickr.com/800/600/interior,minimalist?lock=7"
+    ],
+    "description": "Imponente dúplex de grandes dimensiones ubicado sobre Avenida del Mar. Su diseño optimiza las visuales hacia la costa. Cuenta con 6 ambientes, múltiples baños y comodidades para familias numerosas.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.109383, "longitude": -56.862882 },
     "attributes": { "rooms": 6, "bathrooms": 4, "surface": 227 }
   },
   {
     "id": "PROP-008",
-    "title": "Chalet con Pileto en Pinamar",
+    "title": "Chalet con Pileta en Pinamar",
     "price": 129065,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/8/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.115407, "longitude": -56.863837 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,garden?lock=8",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,garden?lock=8",
+      "https://loremflickr.com/800/600/interior,classic?lock=8",
+      "https://loremflickr.com/800/600/pool,sun?lock=8"
+    ],
+    "description": "Clásico chalet pinamarense de ladrillo a la vista y techo a dos aguas. Construcción sólida con amplio lote parquizado. Ofrece tranquilidad y cercanía a las principales vías de acceso.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.115407, "longitude": -56.863837 },
     "attributes": { "rooms": 2, "bathrooms": 1, "surface": 244 }
   },
   {
@@ -85,18 +133,30 @@
     "price": 110232,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/9/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.112006, "longitude": -56.867518 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,ocean?lock=9",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,ocean?lock=9",
+      "https://loremflickr.com/800/600/livingroom,view?lock=9",
+      "https://loremflickr.com/800/600/deck,beach?lock=9"
+    ],
+    "description": "Oportunidad única en primera línea. Chalet compacto con salida directa a la playa. Inmejorable ubicación que permite disfrutar de los amaneceres sobre el océano desde la comodidad de su living.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.112006, "longitude": -56.867518 },
     "attributes": { "rooms": 3, "bathrooms": 3, "surface": 42 }
   },
   {
     "id": "PROP-010",
-    "title": "Departamento Moderna/o en Valeria del Mar",
+    "title": "Departamento Moderno en Valeria del Mar",
     "price": 82014,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/10/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -34.147733, "longitude": -56.881198 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,modern?lock=10",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,modern?lock=10",
+      "https://loremflickr.com/800/600/kitchen,island?lock=10",
+      "https://loremflickr.com/800/600/bathroom,elegant?lock=10"
+    ],
+    "description": "Unidad a estrenar con detalles de diseño contemporáneo. Espacios generosos y ventilación cruzada. El complejo cuenta con amenities premium, incluyendo solarium, gimnasio y seguridad 24hs.",
+    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -37.147733, "longitude": -56.881198 },
     "attributes": { "rooms": 5, "bathrooms": 3, "surface": 159 }
   },
   {
@@ -105,28 +165,46 @@
     "price": 81474,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/11/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.115861, "longitude": -56.864961 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,beachfront?lock=11",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,beachfront?lock=11",
+      "https://loremflickr.com/800/600/interior,bright?lock=11",
+      "https://loremflickr.com/800/600/balcony?lock=11"
+    ],
+    "description": "Excelente oportunidad de inversión. Dúplex loft de grandes ventanales que maximizan la entrada de luz natural y la brisa marina. Ideal para renta de temporada o uso personal durante todo el año.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.115861, "longitude": -56.864961 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 278 }
   },
   {
     "id": "PROP-012",
-    "title": "Departamento en el Bosque en Barrio Privado La Herradura",
+    "title": "Departamento en Barrio Privado La Herradura",
     "price": 721120,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/12/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -34.109722, "longitude": -56.892188 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,luxury?lock=12",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,luxury?lock=12",
+      "https://loremflickr.com/800/600/livingroom,luxury?lock=12",
+      "https://loremflickr.com/800/600/forest,view?lock=12"
+    ],
+    "description": "Residencia de súper lujo en uno de los barrios privados más exclusivos. Terminaciones europeas, sistema domótico, y vistas incomparables al bosque de La Herradura. Máxima seguridad y confort.",
+    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -37.109722, "longitude": -56.892188 },
     "attributes": { "rooms": 5, "bathrooms": 3, "surface": 275 }
   },
   {
     "id": "PROP-013",
-    "title": "Departamento con Pileto en Cariló",
+    "title": "Departamento con Pileta en Cariló",
     "price": 371400,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/13/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.161904, "longitude": -56.895988 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,carilo?lock=13",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,carilo?lock=13",
+      "https://loremflickr.com/800/600/pool,indoor?lock=13",
+      "https://loremflickr.com/800/600/bedroom,wood?lock=13"
+    ],
+    "description": "Elegante unidad ubicada en complejo de nivel rodeado de añosos pinos. Destaca por su piscina in-out, área de spa y finos detalles en madera que otorgan esa calidez única típica de Cariló.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.161904, "longitude": -56.895988 },
     "attributes": { "rooms": 5, "bathrooms": 4, "surface": 113 }
   },
   {
@@ -135,18 +213,30 @@
     "price": 246495,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/14/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.094786, "longitude": -56.857245 },
+    "thumbnail": "https://loremflickr.com/800/600/house,trees?lock=14",
+    "images": [
+      "https://loremflickr.com/800/600/house,trees?lock=14",
+      "https://loremflickr.com/800/600/deck,forest?lock=14",
+      "https://loremflickr.com/800/600/livingroom,fireplace?lock=14"
+    ],
+    "description": "Magnífica propiedad sumergida en la tranquilidad de Pinamar Norte. Ambientes integrados a la naturaleza a través de amplios cerramientos. Incluye un espectacular deck de madera para disfrutar al aire libre.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.094786, "longitude": -56.857245 },
     "attributes": { "rooms": 3, "bathrooms": 1, "surface": 221 }
   },
   {
     "id": "PROP-015",
-    "title": "Dúplex Moderna/o en Valeria del Mar",
+    "title": "Dúplex Moderno en Valeria del Mar",
     "price": 78758,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/15/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -34.141944, "longitude": -56.880727 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,modern?lock=15",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,modern?lock=15",
+      "https://loremflickr.com/800/600/interior,stairs?lock=15",
+      "https://loremflickr.com/800/600/kitchen,white?lock=15"
+    ],
+    "description": "Impecable dúplex con arquitectura de líneas rectas y estilo minimalista. Espacios bien aprovechados, cochera cubierta y cercanía tanto a la zona céntrica como a los balnearios más buscados.",
+    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -37.141944, "longitude": -56.880727 },
     "attributes": { "rooms": 6, "bathrooms": 4, "surface": 222 }
   },
   {
@@ -155,28 +245,46 @@
     "price": 267780,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/16/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.103645, "longitude": -56.858259 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,oceanview?lock=16",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,oceanview?lock=16",
+      "https://loremflickr.com/800/600/window,ocean?lock=16",
+      "https://loremflickr.com/800/600/bathroom,spa?lock=16"
+    ],
+    "description": "Sofisticada unidad en bloque con vista franca al mar. La banda sonora de tus días será el sonido de las olas. Estructura moderna con un nivel de mantenimiento y cuidado destacable.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.103645, "longitude": -56.858259 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 256 }
   },
   {
     "id": "PROP-017",
-    "title": "Departamento con Pileto en Pinamar Norte",
+    "title": "Departamento con Pileta en Pinamar Norte",
     "price": 209870,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/17/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.09801, "longitude": -56.864315 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,pool?lock=17",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,pool?lock=17",
+      "https://loremflickr.com/800/600/bedroom,cozy?lock=17",
+      "https://loremflickr.com/800/600/kitchen,wood?lock=17"
+    ],
+    "description": "Equilibrio perfecto entre la vida urbana de la costa y el relax. Este departamento posee finas terminaciones, balcón al contrafrente arbolado y un sector de piscina privado para el complejo.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.09801, "longitude": -56.864315 },
     "attributes": { "rooms": 3, "bathrooms": 2, "surface": 70 }
   },
   {
     "id": "PROP-018",
-    "title": "Chalet con Pileto en Pinamar",
+    "title": "Chalet con Pileta en Pinamar",
     "price": 129065,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/18/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.115407, "longitude": -56.863837 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,brick?lock=18",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,brick?lock=18",
+      "https://loremflickr.com/800/600/interior,classic?lock=18",
+      "https://loremflickr.com/800/600/garden,sun?lock=18"
+    ],
+    "description": "Una joya clásica de la ciudad. Confortable chalet con amplio fondo parquizado que invita al disfrute al aire libre. La piscina orientada al sol de tarde completa una propuesta inmejorable.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.115407, "longitude": -56.863837 },
     "attributes": { "rooms": 2, "bathrooms": 1, "surface": 244 }
   },
   {
@@ -185,18 +293,30 @@
     "price": 89794,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/19/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.114718, "longitude": -56.867504 },
+    "thumbnail": "https://loremflickr.com/800/600/house,pool?lock=19",
+    "images": [
+      "https://loremflickr.com/800/600/house,pool?lock=19",
+      "https://loremflickr.com/800/600/livingroom,large?lock=19",
+      "https://loremflickr.com/800/600/patio,grill?lock=19"
+    ],
+    "description": "Excelente relación calidad-precio. Casa robusta ideal para familias grandes, dotada de múltiples habitaciones y baños. Su patio con piscina y parrilla techada será el centro de tu verano.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.114718, "longitude": -56.867504 },
     "attributes": { "rooms": 6, "bathrooms": 5, "surface": 268 }
   },
   {
     "id": "PROP-020",
-    "title": "Casa Luminosa/a en Pinamar",
+    "title": "Casa Luminosa en Pinamar",
     "price": 107771,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/20/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.117381, "longitude": -56.864293 },
+    "thumbnail": "https://loremflickr.com/800/600/house,windows?lock=20",
+    "images": [
+      "https://loremflickr.com/800/600/house,windows?lock=20",
+      "https://loremflickr.com/800/600/interior,sunlight?lock=20",
+      "https://loremflickr.com/800/600/bedroom,bright?lock=20"
+    ],
+    "description": "El diseño de esta propiedad prioriza la luz natural durante todo el día. Confortable, equipada y lista para habitar. Ideal para quienes buscan un retiro de paz sin alejarse de la ciudad.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.117381, "longitude": -56.864293 },
     "attributes": { "rooms": 4, "bathrooms": 2, "surface": 44 }
   },
   {
@@ -205,38 +325,62 @@
     "price": 227528,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/21/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.09543, "longitude": -56.866164 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,seaview?lock=21",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,seaview?lock=21",
+      "https://loremflickr.com/800/600/balcony,chairs?lock=21",
+      "https://loremflickr.com/800/600/kitchen,modern?lock=21"
+    ],
+    "description": "Vivir sobre la arena es posible. Este inmueble premium de 4 ambientes está ubicado en la zona más exclusiva y en pleno crecimiento de la costa, garantizando plusvalía y un estilo de vida superior.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.09543, "longitude": -56.866164 },
     "attributes": { "rooms": 4, "bathrooms": 4, "surface": 152 }
   },
   {
     "id": "PROP-022",
-    "title": "Casa Moderna/a en Pinamar Norte",
+    "title": "Casa Moderna en Pinamar Norte",
     "price": 262964,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/22/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.101043, "longitude": -56.856963 },
+    "thumbnail": "https://loremflickr.com/800/600/house,modernarchitecture?lock=22",
+    "images": [
+      "https://loremflickr.com/800/600/house,modernarchitecture?lock=22",
+      "https://loremflickr.com/800/600/bathroom,lux?lock=22",
+      "https://loremflickr.com/800/600/livingroom,chic?lock=22"
+    ],
+    "description": "Vanguardia arquitectónica en medio del bosque. Con enormes ventanales, calefacción por losa radiante y un diseño de paisajismo que quita el aliento. Apto para el huésped más exigente.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.101043, "longitude": -56.856963 },
     "attributes": { "rooms": 6, "bathrooms": 4, "surface": 233 }
   },
   {
     "id": "PROP-023",
-    "title": "Departamento Luminosa/o en Ostende",
+    "title": "Departamento Luminoso en Ostende",
     "price": 85535,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/23/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -34.132875, "longitude": -56.877481 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,bright?lock=23",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,bright?lock=23",
+      "https://loremflickr.com/800/600/interior,loft?lock=23",
+      "https://loremflickr.com/800/600/kitchen,small?lock=23"
+    ],
+    "description": "Una excelente opción loft/monoambiente de generosas dimensiones. Se destaca por sus detalles de luz indirecta y una ventilación inmejorable. La mejor alternativa para una primera vivienda en la costa.",
+    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -37.132875, "longitude": -56.877481 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 282 }
   },
   {
     "id": "PROP-024",
-    "title": "Chalet Luminosa/o en Valeria del Mar",
+    "title": "Chalet Luminoso en Valeria del Mar",
     "price": 91506,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/24/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -34.139517, "longitude": -56.884847 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,sunny?lock=24",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,sunny?lock=24",
+      "https://loremflickr.com/800/600/garden,flowers?lock=24",
+      "https://loremflickr.com/800/600/livingroom,wood?lock=24"
+    ],
+    "description": "Una propiedad llena de vida y color. Ubicada en una calle serena y arbolada. Sus amplios ventanales en madera permiten que el sol inunde todos sus ambientes. Un verdadero hogar costero.",
+    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -37.139517, "longitude": -56.884847 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 212 }
   },
   {
@@ -245,8 +389,14 @@
     "price": 114734,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/25/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.115399, "longitude": -56.861734 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,seaview?lock=25",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,seaview?lock=25",
+      "https://loremflickr.com/800/600/balcony,sunset?lock=25",
+      "https://loremflickr.com/800/600/bedroom,view?lock=25"
+    ],
+    "description": "Espectacular unidad de 5 ambientes distribuida en altura, con acceso peatonal rápido al mar. Ideal para rentar o disfrutar con amigos. Incluye quincho semicubierto y cocheras de cortesía.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.115399, "longitude": -56.861734 },
     "attributes": { "rooms": 5, "bathrooms": 5, "surface": 77 }
   },
   {
@@ -255,48 +405,78 @@
     "price": 225605,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/26/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.097244, "longitude": -56.858445 },
+    "thumbnail": "https://loremflickr.com/800/600/house,beachfront?lock=26",
+    "images": [
+      "https://loremflickr.com/800/600/house,beachfront?lock=26",
+      "https://loremflickr.com/800/600/terrace,ocean?lock=26",
+      "https://loremflickr.com/800/600/interior,white?lock=26"
+    ],
+    "description": "Vive la majestuosidad del Atlántico desde la tranquilidad de tu hogar. Diseño impecable, amplias terrazas, y una distribución pensada para separar armónicamente las zonas de descanso y esparcimiento.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.097244, "longitude": -56.858445 },
     "attributes": { "rooms": 5, "bathrooms": 4, "surface": 269 }
   },
   {
     "id": "PROP-027",
-    "title": "Departamento de Categorío en Cariló",
+    "title": "Departamento de Categoría en Cariló",
     "price": 478751,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/27/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.164756, "longitude": -56.891268 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,premium?lock=27",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,premium?lock=27",
+      "https://loremflickr.com/800/600/bathroom,marble?lock=27",
+      "https://loremflickr.com/800/600/livingroom,large?lock=27"
+    ],
+    "description": "Una verdadera obra maestra en uno de los parajes más deseados de Argentina. Pisos de mármol, maderas importadas y un nivel de sofisticación absoluto en sus 339 m2. El lujo en su máxima expresión.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.164756, "longitude": -56.891268 },
     "attributes": { "rooms": 6, "bathrooms": 5, "surface": 339 }
   },
   {
     "id": "PROP-028",
-    "title": "Chalet Moderna/o en Valeria del Mar",
+    "title": "Chalet Moderno en Valeria del Mar",
     "price": 72426,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/28/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -34.140419, "longitude": -56.878321 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,contemporary?lock=28",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,contemporary?lock=28",
+      "https://loremflickr.com/800/600/kitchen,island?lock=28",
+      "https://loremflickr.com/800/600/yard,patio?lock=28"
+    ],
+    "description": "Una reimaginación del chalet clásico, sumando comodidades contemporáneas. Cerramientos eficientes, diseño paisajístico en su enorme parque, y a un precio altamente competitivo.",
+    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -37.140419, "longitude": -56.878321 },
     "attributes": { "rooms": 2, "bathrooms": 2, "surface": 338 }
   },
   {
     "id": "PROP-029",
-    "title": "Departamento de Categorío en Cariló",
+    "title": "Departamento de Categoría en Cariló",
     "price": 283674,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/29/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.166694, "longitude": -56.887899 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,boutique?lock=29",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,boutique?lock=29",
+      "https://loremflickr.com/800/600/bedroom,hotel?lock=29",
+      "https://loremflickr.com/800/600/spa,indoor?lock=29"
+    ],
+    "description": "Concebido como un refugio boutique. Esta unidad se encuentra inserta en el bosque y ofrece los servicios de un hotel 5 estrellas: gimnasio, spa y servicio de limpieza. Inversión inteligente.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.166694, "longitude": -56.887899 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 94 }
   },
   {
     "id": "PROP-030",
-    "title": "Casa frente al Mar en Barrio Privado La Herradura",
+    "title": "Casa frente al Mar en La Herradura",
     "price": 679975,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/30/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -34.108137, "longitude": -56.887182 },
+    "thumbnail": "https://loremflickr.com/800/600/mansion,beach?lock=30",
+    "images": [
+      "https://loremflickr.com/800/600/mansion,beach?lock=30",
+      "https://loremflickr.com/800/600/livingroom,panoramic?lock=30",
+      "https://loremflickr.com/800/600/pool,infinity?lock=30"
+    ],
+    "description": "Una de las propiedades más cotizadas del mercado. Combina la estricta seguridad del Barrio Privado La Herradura con una vista infinita al mar. Comodidades del más alto nivel internacional.",
+    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -37.108137, "longitude": -56.887182 },
     "attributes": { "rooms": 4, "bathrooms": 4, "surface": 153 }
   },
   {
@@ -305,18 +485,30 @@
     "price": 260518,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/31/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.169193, "longitude": -56.894157 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,woods?lock=31",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,woods?lock=31",
+      "https://loremflickr.com/800/600/patio,forest?lock=31",
+      "https://loremflickr.com/800/600/kitchen,wood?lock=31"
+    ],
+    "description": "Exquisito diseño integrado al entorno boscoso. La madera y la piedra son protagonistas en este acogedor dúplex. Dispone de deck techado y amplios ventanales para observar la naturaleza.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.169193, "longitude": -56.894157 },
     "attributes": { "rooms": 3, "bathrooms": 1, "surface": 53 }
   },
   {
     "id": "PROP-032",
-    "title": "Dúplex con Pileto en Cariló",
+    "title": "Dúplex con Pileta en Cariló",
     "price": 431428,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/32/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.162177, "longitude": -56.889123 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,pool?lock=32",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,pool?lock=32",
+      "https://loremflickr.com/800/600/pool,garden?lock=32",
+      "https://loremflickr.com/800/600/bedroom,large?lock=32"
+    ],
+    "description": "Confort y elegancia garantizados. Un hermoso desarrollo que cuenta con piscina privada y amplias galerías. Su doble altura en el living aporta amplitud y distinción a todos sus rincones.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.162177, "longitude": -56.889123 },
     "attributes": { "rooms": 4, "bathrooms": 2, "surface": 233 }
   },
   {
@@ -325,18 +517,30 @@
     "price": 240430,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/33/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.098349, "longitude": -56.858154 },
+    "thumbnail": "https://loremflickr.com/800/600/house,coast?lock=33",
+    "images": [
+      "https://loremflickr.com/800/600/house,coast?lock=33",
+      "https://loremflickr.com/800/600/terrace,sunset?lock=33",
+      "https://loremflickr.com/800/600/bathroom,window?lock=33"
+    ],
+    "description": "Impresionante propiedad frente al mar con grandes comodidades. Cuenta con 6 habitaciones en suite, salas de juegos y áreas de servicio completas. Un oasis pensado para el disfrute total.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.098349, "longitude": -56.858154 },
     "attributes": { "rooms": 6, "bathrooms": 5, "surface": 160 }
   },
   {
     "id": "PROP-034",
-    "title": "Dúplex con Pileto en Pinamar",
+    "title": "Dúplex con Pileta en Pinamar",
     "price": 107004,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/34/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.115429, "longitude": -56.868045 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,small?lock=34",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,small?lock=34",
+      "https://loremflickr.com/800/600/pool,shared?lock=34",
+      "https://loremflickr.com/800/600/kitchen,compact?lock=34"
+    ],
+    "description": "Unidad impecable y muy fácil de mantener. Ideal para parejas o inversores jóvenes. En un complejo seguro, moderno y con piscina compartida, ubicado en la tranquilidad del sector norte.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.115429, "longitude": -56.868045 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 67 }
   },
   {
@@ -345,18 +549,30 @@
     "price": 253756,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/35/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.097614, "longitude": -56.858079 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,trees?lock=35",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,trees?lock=35",
+      "https://loremflickr.com/800/600/livingroom,trees?lock=35",
+      "https://loremflickr.com/800/600/balcony,bbq?lock=35"
+    ],
+    "description": "Espectacular piso con balcones corridos que miran directo al bosque centenario. Con sus 5 baños y extensas superficies, asegura el confort de una casa pero con la seguridad de un departamento.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.097614, "longitude": -56.858079 },
     "attributes": { "rooms": 5, "bathrooms": 5, "surface": 209 }
   },
   {
     "id": "PROP-036",
-    "title": "Departamento Moderna/o en Ostende",
+    "title": "Departamento Moderno en Ostende",
     "price": 63493,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/36/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -34.130899, "longitude": -56.873435 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,new?lock=36",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,new?lock=36",
+      "https://loremflickr.com/800/600/kitchen,new?lock=36",
+      "https://loremflickr.com/800/600/bathroom,clean?lock=36"
+    ],
+    "description": "Una de las mejores oportunidades de Ostende. Departamentos súper amplios con infraestructura a estrenar. Muy bajos expensas y espacios integrados para fomentar la convivencia en familia.",
+    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -37.130899, "longitude": -56.873435 },
     "attributes": { "rooms": 6, "bathrooms": 5, "surface": 210 }
   },
   {
@@ -365,8 +581,14 @@
     "price": 266693,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/37/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.099312, "longitude": -56.859763 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,forest?lock=37",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,forest?lock=37",
+      "https://loremflickr.com/800/600/bedroom,cozy?lock=37",
+      "https://loremflickr.com/800/600/yard,trees?lock=37"
+    ],
+    "description": "Para los amantes del silencio y el aire puro. Íntimo, cálido y sumamente exclusivo. Ideal para un retiro estival o para teletrabajar en un entorno sin igual durante todo el año.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.099312, "longitude": -56.859763 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 95 }
   },
   {
@@ -375,18 +597,30 @@
     "price": 92778,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/38/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -34.148055, "longitude": -56.877677 },
+    "thumbnail": "https://loremflickr.com/800/600/apartment,valeria?lock=38",
+    "images": [
+      "https://loremflickr.com/800/600/apartment,valeria?lock=38",
+      "https://loremflickr.com/800/600/kitchen,breakfast?lock=38",
+      "https://loremflickr.com/800/600/bathroom,tiles?lock=38"
+    ],
+    "description": "Excelente depto de 3 ambientes a escasas cuadras de la zona comercial y balnearios. Listo para disfrutar, con un mantenimiento intachable y baulera para cuatriciclos incluida.",
+    "location": { "city": "Partido de Pinamar", "zone": "Valeria del Mar", "latitude": -37.148055, "longitude": -56.877677 },
     "attributes": { "rooms": 3, "bathrooms": 3, "surface": 50 }
   },
   {
     "id": "PROP-039",
-    "title": "Casa Moderna/a en Barrio Privado La Herradura",
+    "title": "Casa Moderna en La Herradura",
     "price": 384064,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/39/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -34.106214, "longitude": -56.887412 },
+    "thumbnail": "https://loremflickr.com/800/600/house,minimalist?lock=39",
+    "images": [
+      "https://loremflickr.com/800/600/house,minimalist?lock=39",
+      "https://loremflickr.com/800/600/livingroom,minimalist?lock=39",
+      "https://loremflickr.com/800/600/garden,landscaping?lock=39"
+    ],
+    "description": "Una auténtica joya arquitectónica de volúmenes limpios y luz cenital. Cuenta con tres amplias habitaciones, espacios sociales para eventos y vistas directas a la cancha de polo del club hípico.",
+    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -37.106214, "longitude": -56.887412 },
     "attributes": { "rooms": 3, "bathrooms": 3, "surface": 314 }
   },
   {
@@ -395,8 +629,14 @@
     "price": 168283,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/40/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.100036, "longitude": -56.858191 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,large?lock=40",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,large?lock=40",
+      "https://loremflickr.com/800/600/bedroom,large?lock=40",
+      "https://loremflickr.com/800/600/balcony,ocean?lock=40"
+    ],
+    "description": "Desarrollado para quienes no quieren sacrificar espacio. Seis ambientes que se asoman al atlántico. Posee terraza privada en la última planta con jacuzzi e increíbles puestas de sol.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.100036, "longitude": -56.858191 },
     "attributes": { "rooms": 6, "bathrooms": 6, "surface": 313 }
   },
   {
@@ -405,28 +645,46 @@
     "price": 110798,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/41/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.10945, "longitude": -56.860314 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,woods?lock=41",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,woods?lock=41",
+      "https://loremflickr.com/800/600/interior,cabin?lock=41",
+      "https://loremflickr.com/800/600/porch?lock=41"
+    ],
+    "description": "Encantador refugio rústico de una planta. Pensado para desconectarse de la ciudad, con un amplio parque perimetral, techo a dos aguas de gran aislación térmica y sólida mampostería.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.10945, "longitude": -56.860314 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 274 }
   },
   {
     "id": "PROP-042",
-    "title": "Dúplex Luminosa/o en Pinamar Norte",
+    "title": "Dúplex Luminoso en Pinamar Norte",
     "price": 153854,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/42/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.10191, "longitude": -56.863323 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,bright?lock=42",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,bright?lock=42",
+      "https://loremflickr.com/800/600/livingroom,bright?lock=42",
+      "https://loremflickr.com/800/600/bedroom,white?lock=42"
+    ],
+    "description": "Moderno, compacto y excelentemente ubicado a pasos del corredor gastronómico. Se entrega totalmente equipado. Los grandes paños vidriados hacen de este inmueble un hogar sumamente alegre.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.10191, "longitude": -56.863323 },
     "attributes": { "rooms": 2, "bathrooms": 1, "surface": 56 }
   },
   {
     "id": "PROP-043",
-    "title": "Casa en el Bosque en Barrio Privado La Herradura",
+    "title": "Casa en el Bosque en La Herradura",
     "price": 468161,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/43/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -34.105636, "longitude": -56.894751 },
+    "thumbnail": "https://loremflickr.com/800/600/house,luxury,forest?lock=43",
+    "images": [
+      "https://loremflickr.com/800/600/house,luxury,forest?lock=43",
+      "https://loremflickr.com/800/600/kitchen,luxury?lock=43",
+      "https://loremflickr.com/800/600/patio,luxury?lock=43"
+    ],
+    "description": "Estilo y porte sin igual en el entorno más codiciado. Propiedad lista para satisfacer demandas altas con 5 baños, losa radiante, aires acondicionados ocultos y una cocina de diseño italiano.",
+    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -37.105636, "longitude": -56.894751 },
     "attributes": { "rooms": 5, "bathrooms": 5, "surface": 278 }
   },
   {
@@ -435,8 +693,14 @@
     "price": 395709,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/44/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -34.164243, "longitude": -56.887735 },
+    "thumbnail": "https://loremflickr.com/800/600/house,beach,carilo?lock=44",
+    "images": [
+      "https://loremflickr.com/800/600/house,beach,carilo?lock=44",
+      "https://loremflickr.com/800/600/livingroom,seaview?lock=44",
+      "https://loremflickr.com/800/600/deck,sunset?lock=44"
+    ],
+    "description": "El sueño de despertar escuchando el mar en Cariló. Maderas oscuras y piedra conjugan con la arena. Posee amplios galerías vidriadas y un gran living con estufa hogar a leña para los inviernos.",
+    "location": { "city": "Partido de Pinamar", "zone": "Cariló", "latitude": -37.164243, "longitude": -56.887735 },
     "attributes": { "rooms": 5, "bathrooms": 3, "surface": 166 }
   },
   {
@@ -445,8 +709,14 @@
     "price": 87880,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/45/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -34.127002, "longitude": -56.873375 },
+    "thumbnail": "https://loremflickr.com/800/600/house,woods,ostende?lock=45",
+    "images": [
+      "https://loremflickr.com/800/600/house,woods,ostende?lock=45",
+      "https://loremflickr.com/800/600/livingroom,cozy?lock=45",
+      "https://loremflickr.com/800/600/garden,large?lock=45"
+    ],
+    "description": "Una imponente cantidad de metros cuadrados al mejor precio. Un terreno fabuloso para amantes de la naturaleza y una edificación noble que requiere muy poco mantenimiento anual.",
+    "location": { "city": "Partido de Pinamar", "zone": "Ostende", "latitude": -37.127002, "longitude": -56.873375 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 293 }
   },
   {
@@ -455,48 +725,78 @@
     "price": 112008,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/46/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.116932, "longitude": -56.868587 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,beach,large?lock=46",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,beach,large?lock=46",
+      "https://loremflickr.com/800/600/bedroom,kids?lock=46",
+      "https://loremflickr.com/800/600/kitchen,large?lock=46"
+    ],
+    "description": "Pensado para grupos familiares múltiples. 6 ambientes espaciosos y confortables a escasos metros del muelle y balnearios tradicionales. Gran capacidad de almacenamiento en cocheras.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.116932, "longitude": -56.868587 },
     "attributes": { "rooms": 6, "bathrooms": 6, "surface": 307 }
   },
   {
     "id": "PROP-047",
-    "title": "Dúplex Luminosa/o en Pinamar",
+    "title": "Dúplex Luminoso en Pinamar",
     "price": 142374,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/47/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -34.116702, "longitude": -56.868194 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,sunny,new?lock=47",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,sunny,new?lock=47",
+      "https://loremflickr.com/800/600/livingroom,sunny?lock=47",
+      "https://loremflickr.com/800/600/balcony,sun?lock=47"
+    ],
+    "description": "Una propiedad vibrante en una ubicación premium. Orientación norte que garantiza sol directo todo el año. Acabados impecables y lista para transferirse hoy mismo.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar", "latitude": -37.116702, "longitude": -56.868194 },
     "attributes": { "rooms": 2, "bathrooms": 2, "surface": 152 }
   },
   {
     "id": "PROP-048",
-    "title": "Chalet de Categorío en Barrio Privado La Herradura",
+    "title": "Chalet de Categoría en La Herradura",
     "price": 506131,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/48/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -34.106298, "longitude": -56.886469 },
+    "thumbnail": "https://loremflickr.com/800/600/chalet,luxury,mansion?lock=48",
+    "images": [
+      "https://loremflickr.com/800/600/chalet,luxury,mansion?lock=48",
+      "https://loremflickr.com/800/600/pool,luxury?lock=48",
+      "https://loremflickr.com/800/600/livingroom,luxury,wood?lock=48"
+    ],
+    "description": "Residencia de estilo neoclásico en la zona más prestigiosa de La Herradura. Pisos tarugados, domótica, spa interno y cava de vinos subterránea. El pináculo del buen gusto en Pinamar.",
+    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -37.106298, "longitude": -56.886469 },
     "attributes": { "rooms": 5, "bathrooms": 4, "surface": 132 }
   },
   {
     "id": "PROP-049",
-    "title": "Casa Luminosa/a en Pinamar Norte",
+    "title": "Casa Luminosa en Pinamar Norte",
     "price": 226187,
     "currency": "USD",
     "operationType": "Venta",
-    "thumbnail": "https://picsum.photos/seed/49/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -34.100523, "longitude": -56.856853 },
+    "thumbnail": "https://loremflickr.com/800/600/house,bright,modern?lock=49",
+    "images": [
+      "https://loremflickr.com/800/600/house,bright,modern?lock=49",
+      "https://loremflickr.com/800/600/kitchen,white,bright?lock=49",
+      "https://loremflickr.com/800/600/bathroom,modern?lock=49"
+    ],
+    "description": "Espacios descomunales en una sola planta. Concepto súper abierto con paredes vidriadas de piso a techo que comunican directamente el living con un frondoso parque privado.",
+    "location": { "city": "Partido de Pinamar", "zone": "Pinamar Norte", "latitude": -37.100523, "longitude": -56.856853 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 281 }
   },
   {
     "id": "PROP-050",
-    "title": "Dúplex en el Bosque en Barrio Privado La Herradura",
+    "title": "Dúplex en el Bosque en La Herradura",
     "price": 510286,
     "currency": "USD",
     "operationType": "Alquiler",
-    "thumbnail": "https://picsum.photos/seed/50/800/600",
-    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -34.108339, "longitude": -56.885695 },
+    "thumbnail": "https://loremflickr.com/800/600/duplex,luxury,forest?lock=50",
+    "images": [
+      "https://loremflickr.com/800/600/duplex,luxury,forest?lock=50",
+      "https://loremflickr.com/800/600/livingroom,luxury,forest?lock=50",
+      "https://loremflickr.com/800/600/deck,luxury?lock=50"
+    ],
+    "description": "Una propuesta sumamente sofisticada para quienes priorizan seguridad y cercanía con la naturaleza. Destaca su galería vidriada, estufa inteligente y acabados orgánicos.",
+    "location": { "city": "Partido de Pinamar", "zone": "Barrio Privado La Herradura", "latitude": -37.108339, "longitude": -56.885695 },
     "attributes": { "rooms": 1, "bathrooms": 1, "surface": 42 }
   }
 ]
